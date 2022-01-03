@@ -2,7 +2,7 @@
 dADR-SR provides an implementation of the dilated Adaptive Residual Network for the super-resolution of ocean Absolute Dynamic Topography based on multivariate predictors. 
 The network and the training/test data used for its development are fully described in the paper:
 
-- Buongiorno Nardelli B., Ciani D., Super-resolving ocean dynamics from space with computer vision algorithms, **2021**, _in preparation_
+- Buongiorno Nardelli B., Charles E., Ciani D., Super-resolving ocean dynamics from space with computer vision algorithms, **2021**, _in preparation_
 
 ## Installation
 
