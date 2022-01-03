@@ -15,7 +15,7 @@ These are the python packages required (tested versions):
 
 
 ## Training data
-The data used to develop the models can be found at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.???.svg)](https://doi.org/10.5281/zenodo.???)
+The data used to develop the models can be found at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5815330.svg)](https://doi.org/10.5281/zenodo.5815330)
 
 ### Author
 Bruno Buongiorno Nardelli, Consiglio Nazionale delle Ricerche - Istituto di Scienze Marine
